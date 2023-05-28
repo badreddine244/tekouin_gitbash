@@ -1,3 +1,3 @@
 #!/bin/bash
 
-find ~/ -mindepth1 -type d | wc -l
+find ./*   -type d | wc -l
